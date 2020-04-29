@@ -21,3 +21,10 @@ h1{
 .submit{
 	padding: 20px;
 }
+.jshead{
+	text-align: center;
+	font-size: 25px;
+	margin: 0px;
+	background-color: lightblue;
+	font-weight: bold;
+}
